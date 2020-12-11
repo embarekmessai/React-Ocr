@@ -1,0 +1,19 @@
+{
+  "name": "ocr-umt",
+  "version": "0.1.0",
+  "description": "Ocr module for UMT projets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Embarek MESSAI",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "tesseract.js": "^2.0.0-beta.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
