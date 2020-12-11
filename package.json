@@ -4,7 +4,7 @@
   "description": "Ocr module for UMT projets",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "author": "Embarek MESSAI",
   "license": "GPL-3.0-or-later",
